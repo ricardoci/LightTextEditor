@@ -6,8 +6,7 @@ build a text editor that runs in the browser
 ```
 - What was your motivation? I was motivated by the opportunity to create something that I have observed others use on a daily basis.
 - Why did you build this project? The purpose of testing was to apply the skills that I acquired during the program.
-- What problem does it solve? It offers a space for self-expression and creativity
-- What did you learn? While building this project, I encountered a challenge of displaying my JSON data in the Handlebars page. However, I overcame this challenge by learning how to set up my /tips post request correctly, which eventually helped me achieve the goal of displaying the data.
+- What did you learn? How bundle up differnet files.I encounter several problems like the manifest.json file not loading.
 ```
 # table of contents
 
