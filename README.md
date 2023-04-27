@@ -22,8 +22,10 @@ build a text editor that runs in the browser
 
 
 # Usage/MockUp
-![alt text](/public/img/homeBlog.png)
-![alt text](/public/img/loginBlog.png)
+![alt text](images/indexedDb.png)
+![alt text](images/mainifest.png)
+![alt text](images/serviceworker.png)
+![alt text](images/text%20editor.png)
 
 
 
